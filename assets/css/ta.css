@@ -1,0 +1,19 @@
+.choice {
+    margin-top: 10px
+}
+
+.back_button{
+    width: 6rem;
+    height:3rem;
+    font-size: 19px;
+}
+
+.next_button{
+    width: 6rem;
+    height:3rem;
+    font-size: 19px;
+}
+
+.question{
+    margin-top: 10px;
+}
