@@ -2,18 +2,26 @@
     margin-top: 10px
 }
 
-.back_button{
+.back_button {
     width: 6rem;
-    height:3rem;
+    height: 3rem;
     font-size: 19px;
 }
 
-.next_button{
+.next_button {
     width: 6rem;
-    height:3rem;
+    height: 3rem;
     font-size: 19px;
 }
 
-.question{
+.question_1 {
     margin-top: 10px;
+}
+
+.question_2 {
+    margin-top: 54px;
+}
+
+.comment {
+    margin-top: 80px
 }

@@ -7,10 +7,9 @@
         </div>
     </nav>
     <div class="container">
-        <!-- Content here -->
         <div class="row pt-3">
             <div class="col">
-                <a href="score4.php" class="btn btn-danger back_button">ย้อนกลับ</a>
+                <a href="comment.php" class="btn btn-danger back_button">ย้อนกลับ</a>
             </div>
             <div class="col text-center">
                 <h2 class="mb-1">สรุปผลการประเมิน</h2>
@@ -76,7 +75,7 @@
 
             </tbody>
         </table>
-        <textarea class="form-control" id="complain" rows="3" disabled></textarea>
+        <textarea class="form-control" id="comment" rows="3" disabled></textarea>
         <br>
 
 
@@ -219,7 +218,7 @@
         } else if (window.localStorage.getItem('score9') == 5) {
             document.getElementById("score9").innerHTML = "มากที่สุด";
         }
-        document.getElementById("complain").innerHTML = localStorage.getItem("complain");
+        document.getElementById("comment").innerHTML = localStorage.getItem("comment");
     });
 </script>
 
