@@ -14,7 +14,7 @@
                 <h2 class="mb-1">คำถามบรรทัดที่ 1</h2>
             </div>
             <div class="col-3" style="text-align: right">
-                <a href="score2.php" class="btn btn-success">ถัดไป</a>
+                <a href="score2.php" class="btn btn-success next_button">ถัดไป</a>
             </div>
         </div>
         <div class="row">

@@ -9,7 +9,7 @@
     <div class="container">
         <div class="row pt-3">
             <div class="col-3">
-                <a href="score4.php" class="btn btn-danger">ย้อนกลับ</a>
+                <a href="score4.php" class="btn btn-danger back_button">กลับ</a>
             </div>
             <div class="col text-center">
                 <h2 class="mb-1">ข้อเสนอแนะ</h2>
